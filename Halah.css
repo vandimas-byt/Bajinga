@@ -1,0 +1,76 @@
+*,
+html{
+  margin : 0;
+  padding : 0;
+  box-sizing : border-box;
+}
+
+.navbar{
+  display : flex;
+  height : 15vh;
+  justify-content : center;
+  align-items : center;
+  background-color : black;
+  color : white;
+}
+
+.li-navbar{
+  list-style-type: none;
+}
+
+.li-navbar:hover{
+  background-color : orange;
+}
+
+.Bajing{
+  color : white;
+  text-decoration : none;
+}
+
+.main-oom{
+  background-color : black;
+  color : yellow;
+}
+
+.jing{
+  color : white;
+  text-decoration : none;
+}
+
+.jing:hover{
+  background-color : red;
+}
+
+.main{
+  height : 68.5vh;
+  color: green;
+  background-color : red;
+}
+
+.h1-main{
+  color : green;
+  background-color : red;
+}
+
+.p-main{
+  color : yellow;
+  background-color : red;
+}
+
+.sisa{
+  background-color : black;
+}
+
+.foot{
+  height : 10vh;
+}
+
+.h1-foot{
+  color : black;
+  background-color : white;
+}
+
+.p-foot{
+  color : black;
+  background-color : white;
+}
